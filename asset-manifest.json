@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/maths-workshop-2025/static/css/main.e6c13ad2.css",
-    "main.js": "/maths-workshop-2025/static/js/main.849a4142.js",
+    "main.js": "/maths-workshop-2025/static/js/main.319d501e.js",
     "static/js/453.0b187c03.chunk.js": "/maths-workshop-2025/static/js/453.0b187c03.chunk.js",
     "static/media/uclan_logo.png": "/maths-workshop-2025/static/media/uclan_logo.493a4cae86413a0bfd74.png",
     "static/media/RSS_logo.jpg": "/maths-workshop-2025/static/media/RSS_logo.55d060d6f697ddbd2713.jpg",
     "static/media/LMS_logo.jpg": "/maths-workshop-2025/static/media/LMS_logo.8d81616ba69dc36ba594.jpg",
     "index.html": "/maths-workshop-2025/index.html",
     "main.e6c13ad2.css.map": "/maths-workshop-2025/static/css/main.e6c13ad2.css.map",
-    "main.849a4142.js.map": "/maths-workshop-2025/static/js/main.849a4142.js.map",
+    "main.319d501e.js.map": "/maths-workshop-2025/static/js/main.319d501e.js.map",
     "453.0b187c03.chunk.js.map": "/maths-workshop-2025/static/js/453.0b187c03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.849a4142.js"
+    "static/js/main.319d501e.js"
   ]
 }
